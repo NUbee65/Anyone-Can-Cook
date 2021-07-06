@@ -9,7 +9,7 @@ pantry provisioning
 **Live Web Site Link**
 
 The repository does not contain the live website. That website can be reached at
-http://anyone-cancook.herokuapp.com/.
+<http://anyone-cancook.herokuapp.com/>.
 
 **Review of My Contribution to Project:**
 
@@ -42,3 +42,23 @@ http://anyone-cancook.herokuapp.com/.
 
 -   Member of the tiger team that debugged all the way through to the Heroku
     deployment.
+
+**Web Site Concept, Design and Development Team Members:**
+
+-   Katherine Kane, [kakane@umich.edu](mailto:kakane@umich.edu)
+
+-   Rebekah Hulsey, <https://www.linkedin.com/in/rebekahehulsey/>
+
+-   Sree Kodali, <https://www.linkedin.com/in/sree-kodali-09a44518a/>
+
+-   Valerie Dandar, <https://www.linkedin.com/in/valerie-dandar-9a29524/>
+
+**Advisors to the Team:**
+
+-   Dartanion Williams, Adjunct Professor, Data Analytics at George Washington
+    University, <https://www.linkedin.com/in/dartanion/>
+
+-   Heather Rodney, Technical Assistant,
+    <https://www.linkedin.com/in/heatherrodneyms/>
+
+-   Darick Luongo, Technical Assistant, <https://www.linkedin.com/in/daluongo/>
