@@ -43,6 +43,10 @@ The repository does not contain the live website. That website can be reached at
 -   Member of the tiger team that debugged all the way through to the Heroku
     deployment.
 
+**Overview Flow Chart**
+
+![](media/6e32b39b7710584b65ce4276911239a0.png)
+
 **Web Site Concept, Design and Development Team Members:**
 
 -   Katherine Kane, [kakane@umich.edu](mailto:kakane@umich.edu)
